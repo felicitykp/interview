@@ -1,0 +1,60 @@
+/* This is my CSS file */
+
+
+body{
+	background-color: #eeeeee;
+	padding: 0;
+	margin: 0;
+	/*background-image: url("../images/wood.jpg"); 
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;*/
+}
+
+h1{
+	position: fixed;
+	width: 100%;
+	top: 0px;
+	color: #d45050;
+	text-align: center;
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 75pt;
+	background-color: #cccccc;
+	margin: 0;
+	height: 150px;
+	padding-top: 2.5%;
+	text-shadow: 5px 5px #dddddd;
+	background-image: url("../images/wood.jpg"); 
+}
+
+h2{
+	color: #3d464f;
+	text-align: center;
+	padding-top: 15%;
+	font-family: 'Sedgwick Ave', cursive;
+	font-size: 25pt;
+	margin-top: 20;
+}
+
+h3{
+	color: #d45050;
+	font-family: 'Exo 2', sans-serif;
+	padding-right: 7%;
+	padding-left: 7%;
+	font-size: 25pt;
+}
+
+
+p {
+	color: 	#3d464f;
+	font-family: 'Exo 2', sans-serif;
+	font-size: 20pt;
+	padding-right: 9%;
+	padding-left: 9%;
+}
+
+#TopPic {
+	text-align: center;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
